@@ -2,10 +2,10 @@
 
 ## subheader
 
-creating a first repo for stat 579
-just regular text in between
-- list item 1
-- list item 2
+- User name luisbb7183
+
 - forest basin research project
 - soil lab work
 - paper work to como to study to USA
+
+- I usually work with soil data analysis
